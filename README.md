@@ -100,7 +100,7 @@ Use logs like `access.log`, `error.log`, and `health.log` for troubleshooting.
 
 ### Inside Container: Logs Directory
 
-![docker exec Screenshot](./docker-exec-netdata-logs.png)
+![docker exec Screenshot](./docker exec -it netdata bash.png)
 
 ---
 
